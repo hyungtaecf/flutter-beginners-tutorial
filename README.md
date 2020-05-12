@@ -1,9 +1,49 @@
-# flutter-beginners-tutorial
-All course files for the Flutter Beginners playlist on The Net Ninja YouTube channel.
+# Flutter Begginners Tutorial
+The Net Ninja YouTube Tutorial
 
-## How to use these files
-Each lesson in the playlist has it's own branch in this repository. To see the code for that lesson, choose the appropriate branch. E.g. to see the code for lesson 15, checkout the lesson-15 branch.
+## Studied Content
 
-**important** - if you are cloning the repo to your desktop, you will need to perform a packages get / pub get to install any dependencies that the project may have at that point of the course.
-
-**Link to playlist on YouTube**
+### Flutter
+- Intro
+- Setup
+- Flutter Overview
+- Dart Primer
+- Creating a Flutter App in Android Studio
+- Scaffold Widget
+- AppBar Widget
+- Colors
+- Fonts
+- Stateless Widgets
+- Hot Reload
+- Images & Assets
+- Buttons
+- Icons
+- Containers
+- Padding
+- Rows
+- Columns
+- Flutter Outline
+- Shortcuts
+- Expanded Widgets
+- Ninja ID Project
+- Stateful Widgets
+- Lists of Data
+- Custom Classes
+- Cards
+- Extracting Widgets
+- Functions as Parameters
+- Starting the World Time App
+- Maps
+- Routing
+- Widget Lifecycle
+- Asynchronous Code
+- Flutter Packages (http)
+- World Time API
+- WorldTime Custom Class
+- Error Handling
+- Passing Route Data
+- Formatting & Showing Dates
+- Loaders / Spinners
+- Ternary Operators
+- List View Builder
+- Updating the Time
